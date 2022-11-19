@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33b6e097-79b1-441e-bf08-fd3d40282676" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/RFP_219_TicTacToe/com/bridgelabz/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RFP_219_TicTacToe/com/bridgelabz/TicTacToe.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
